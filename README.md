@@ -8,7 +8,7 @@
 </p>
 ## elainejiang 小程序后台 用 laravel+vue+elemeUI实现
 
-
+## 项目中.env 配置文件被我忽略，可以通过.env.example 配置 。里面需要修改自己服务器的信息
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
